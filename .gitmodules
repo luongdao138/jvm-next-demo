@@ -1,0 +1,3 @@
+[submodule "jvm-client"]
+	path = jvm-client
+	url = git@gitlab.com:pionero/jvm/jvm-client.git
